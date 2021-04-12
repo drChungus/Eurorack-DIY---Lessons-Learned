@@ -64,7 +64,7 @@ This is a custom module I designed as my very first PCB that made into productio
 * Design front panel first and adopt the PCB behind. Function dictates form that defines design.
 * Label your pots and connectors. Even if you spent 50 hours designing the module, you will forget what is what
 * The primary temperature compensation in the exponential converters are the transistors to be matched. The thermistor is the secondary compensation. You need to match the transistors no matter what, but you can get dual transistors - where the same silicium layer is used to create two transistors with almost identical properties. These are far superior in every aspect than hand matching discrete components. 
-![image - dmmt3904w]()
+![image - dmmt3904w](https://raw.githubusercontent.com/drChungus/Eurorack-DIY---Lessons-Learned/main/images/DMMT3904W.jpg)
 
 As I originally used two 2n3904s and the transistor matching was far from perfect the V/O pitch tracking was horrible. I ended up using a daughter-board adapter for the dual transistor pair, plus a thermistor with the proper coefficient and the final results are suitable for musical applications.
 
