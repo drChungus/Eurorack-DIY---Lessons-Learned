@@ -32,7 +32,7 @@ When it comes to SMD, I see many people tend to stay away from it. Allow me to l
 I was drawn into the world of SMD by a college of mine, and I can verify that once you go surface mount you will not come back to THT. All in all I see many builders avoid it without even trying, so I recommend you give it a go at some point (if you can handle basic soldering). 
 
 For me ideally the process should have the following steps:
-1. Resource ingredients from multiple places
+#### 1. Resource ingredients from multiple places
   * PCB and Front Panel
   * Passives/Generic electronics
   * Application specific ICs and parts
@@ -40,11 +40,11 @@ For me ideally the process should have the following steps:
 
 I can not recommend a best place to get all these as this might be different based on your location, but I recommend you discover the possible places to get these.
 
-2. Waiting for delivery
+#### 2. Waiting for delivery
 
 Yeah, it takes a while to get all the stuff, I usually spend this time double checking if my resourcing covers everything and also maintain a record of what do I have in stock.
 
-3. Building 
+#### 3. Building 
 You should do this after you have the parts delivered. Never rush a build and never push yourself too much as the final result will suffer from it. Take your time, pop up some smooth jazz or some podcast and proceed in your own tempo. Take regular breaks, and stop if you feel exhausted!
 
-4. Smoke test
+#### 4. Smoke test
