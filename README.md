@@ -77,7 +77,7 @@ As I did not find any proper PCB adaptations for the [Rene Schmitz Korg MS-20 ty
 
 ### Antumbra Knit
 
-This[bad boy](http://www.antumbra.eu/redesign/knit) is the 6HP version of the [Mutable Instruments Plaits](https://mutable-instruments.net/modules/plaits/) module, a must-have in your VCO arsenal. As you can imagine the PCB design is dense AF, huge respect for the re-design.
+This [bad boy](http://www.antumbra.eu/redesign/knit) is the 6HP version of the [Mutable Instruments Plaits](https://mutable-instruments.net/modules/plaits/) module, a must-have in your VCO arsenal. As you can imagine the PCB design is dense AF, huge respect for the re-design.
 
 * You can use different color LEDs then in the BOM, but the load resistors might be adjusted as different colors have different light intensity at the same currents
 * Do the micro-controller first
